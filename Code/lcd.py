@@ -1,14 +1,4 @@
 #!/usr/bin/python
-#
-# HD44780 LCD Test Script for
-# Raspberry Pi
-#
-# Author : Matt Hawkins
-# Site   : http://www.raspberrypi-spy.co.uk
-# 
-# Date   : 03/08/2012
-#
-
 # The wiring for the LCD is as follows:
 # 1 : GND
 # 2 : 5V
